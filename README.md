@@ -1,4 +1,4 @@
-# 🚀 Advanced Discord.js V14 TemplateV14 DiscordJS V14 Template 
+# 🚀 Advanced Discord.js V14 Template
 
 Here is a template I created using an advanced version of **DiscordJS v14**, designed specifically for you. Enjoy! 
 
